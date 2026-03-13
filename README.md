@@ -7,11 +7,11 @@
 
 # 🚢 Projeto Titanic - Previsão de Sobrevivência com Machine Learning
 
-Neste projeto foi desenvolvido um modelo de **Machine Learning** para prever a sobrevivência de passageiros no desastre do Titanic.
+Neste projeto foi desenvolvido um modelo de Machine Learning para prever a sobrevivência de passageiros no desastre do Titanic.
 
-O desafio consiste em analisar características dos passageiros — como classe social, idade, sexo e estrutura familiar — para identificar padrões que influenciaram a sobrevivência.
+O desafio consiste em analisar características dos passageiros como classe social, idade, sexo e estrutura familiar para identificar padrões que influenciaram a sobrevivência.
 
-O projeto segue o fluxo completo de um projeto de **Data Science**, incluindo tratamento de dados, análise exploratória, engenharia de variáveis, treinamento de modelo preditivo e avaliação de desempenho.
+O projeto segue o fluxo completo de um projeto de Data Science, incluindo tratamento de dados, análise exploratória, engenharia de variáveis, treinamento de modelo preditivo e avaliação de desempenho.
 
 <br>
 
@@ -34,7 +34,7 @@ O projeto segue o fluxo completo de um projeto de **Data Science**, incluindo tr
 - Tratamento de valores ausentes;
 - Remoção de variáveis irrelevantes;
 - Conversão de variáveis categóricas em numéricas;
-- Aplicação de **One-Hot Encoding**;
+- Aplicação de One-Hot Encoding;
 - Criação de novas variáveis:
   - FamilySize
   - IsAlone
@@ -50,7 +50,7 @@ O projeto segue o fluxo completo de um projeto de **Data Science**, incluindo tr
 
 - **Regressão Logística**
 
-A Regressão Logística é um modelo amplamente utilizado em problemas de **classificação binária**, sendo ideal para prever eventos com dois resultados possíveis, como sobrevivência ou não sobrevivência.
+A Regressão Logística é um modelo amplamente utilizado em problemas de classificação binária, sendo ideal para prever eventos com dois resultados possíveis, como sobrevivência ou não sobrevivência.
 
 Além disso, o modelo permite interpretar o impacto de cada variável na probabilidade do evento ocorrer.
 
@@ -69,9 +69,9 @@ O desempenho do modelo foi avaliado utilizando:
 
 O modelo alcançou aproximadamente:
 
-**79.89% de acurácia**
+79.89% de acurácia
 
-Isso significa que o modelo conseguiu prever corretamente cerca de **8 em cada 10 passageiros**.
+Isso significa que o modelo conseguiu prever corretamente cerca de 8 em cada 10 passageiros.
 
 <br>
 
@@ -92,7 +92,7 @@ Essas variáveis tiveram influência significativa na probabilidade de sobreviv�
 **Insights Encontrados.**
 
 - Mulheres apresentaram maior taxa de sobrevivência;
-- Passageiros da **1ª classe** tiveram maiores chances de sobreviver;
+- Passageiros da 1ª classe tiveram maiores chances de sobreviver;
 - Crianças tiveram prioridade durante o resgate;
 - Passageiros viajando sozinhos tiveram menor probabilidade de sobrevivência;
 - Passageiros que pagaram tarifas mais altas tiveram maiores chances de sobreviver.
@@ -125,18 +125,19 @@ Esses padrões refletem fatores sociais e estruturais presentes no contexto do d
 
 **Acesso ao Projeto**
 
-- 📓 Notebook: https://github.com/LarisSanto/Titanic-Machine-Learning
-- 📎 Google Colab: (adicione aqui o link do seu notebook)
+- 📓 Notebook: 
+- 📎 Google Colab: 
 
 <br>
 
 
 ## 👩🏽 Sobre Mim
 
-Sou **Larissa dos Santos Silva**, estudante do Programa ONE (Oracle + Alura).  
+Sou Larissa dos Santos Silva, estudante da Universidade Anhembi Morumbi e do Programa ONE (Oracle + Alura).  
+
 Aqui compartilho os principais projetos que desenvolvi durante minha formação na área de Dados.
 
-Este projeto faz parte do meu processo de aprendizado e desenvolvimento em **Data Science e Machine Learning**.
+Este projeto faz parte do meu processo de aprendizado e desenvolvimento em Data Science e Machine Learning.
 
 Estou sempre aberta a sugestões, feedbacks e troca de conhecimentos!
 
