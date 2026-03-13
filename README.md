@@ -125,7 +125,7 @@ Esses padrões refletem fatores sociais e estruturais presentes no contexto do d
 
 **Acesso ao Projeto**
 
-- 📓 Notebook: 
+- 📓 Notebook: https://github.com/LarisSanto/Titanic_previs-o.git
 - 📎 Google Colab: https://colab.research.google.com/drive/1VcwpurftFNH9a6g-cj9ik-61Flu66G8n?usp=sharing
 
 <br>
