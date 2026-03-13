@@ -116,15 +116,14 @@ Esses padrões refletem fatores sociais e estruturais presentes no contexto do d
 **Estrutura do Repositório.**
 
 📦 Titanic-Machine-Learning
+──── 📂 data
+── train.csv
+── test.csv
+── gender_submission.csv
+└── titanic.zip
 
-├── 📂 data
-│   ├── train.csv
-│   ├── test.csv
-│   ├── gender_submission.csv
-│   └── titanic.zip
-│
-├── 📂 notebook
-│   └── Titanic_Machine_Learning_from_Disaster.ipynb
+──── 📂 notebook
+── Titanic_Machine_Learning_from_Disaster.ipynb
 │
 ├── 📂 results
 │   └── submission.csv
