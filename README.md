@@ -143,7 +143,7 @@ Esses padrões refletem fatores sociais e estruturais presentes no contexto do d
 
 Sou Larissa dos Santos Silva, estudante da Universidade Anhembi Morumbi e do Programa ONE (Oracle + Alura).  
 
-Aqui compartilho os principais projetos que desenvolvi durante minha formação na área de Dados.
+Aqui compartilho meus projetos que desenvolvi durante minha formação na área de Dados.
 
 Este projeto faz parte do meu processo de aprendizado e desenvolvimento em Data Science e Machine Learning.
 
