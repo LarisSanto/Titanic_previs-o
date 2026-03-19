@@ -15,6 +15,7 @@ O projeto segue o fluxo completo de um projeto de Data Science, incluindo tratam
 
 <br>
 
+
 **Objetivos do Projeto.**
 
 - Explorar e compreender o dataset do Titanic;
@@ -163,6 +164,7 @@ https://unique-onion-409.notion.site/Ol-meu-nome-Larissa-dos-Santos-1ffae8705fee
 
 
 ---
+
 
 <p align="center">Feito com 🖤 por Larissa dos Santos Silva</p>
 
